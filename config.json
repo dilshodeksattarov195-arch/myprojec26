@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userretch",
+        "uuid": 159172,
+        "checksum": "pz0iv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
